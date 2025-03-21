@@ -1,4 +1,4 @@
-# BreakoutGame
+# Breakout game
 
 Made with Android Studio 2024.2.2
 
