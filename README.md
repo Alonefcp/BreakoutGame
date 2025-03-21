@@ -10,3 +10,8 @@ Also there are three java classes:
 - MainActivity which is the entry point of the app.
 - GameThread which handles the game loop.
 - Game which handles the input, render and update of the game
+
+<p align="center">
+  <img src="Images/breakout.png">
+</p>
+
